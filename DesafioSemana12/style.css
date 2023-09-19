@@ -1,0 +1,23 @@
+
+.fa {
+    font-size: 24px;
+    color: gold;
+}
+
+.fa-star.checked {
+    color: orange;
+}
+
+.comentarios {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 5px 5px 10px #666666,
+               -5px -5px 10px #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.comentarios div {
+    margin: 10px;
+}
